@@ -548,29 +548,29 @@ section {
 }
 
 /*--------------------------------------------------------------
-# About
+# About Me
 --------------------------------------------------------------*/
-.about .content h3 {
+.About Me .content h3 {
   font-weight: 600;
   font-size: 26px;
 }
 
-.about .content ul {
+.About Me .content ul {
   list-style: none;
   padding: 0;
 }
 
-.about .content ul li {
+.About Me .content ul li {
   padding-bottom: 10px;
 }
 
-.about .content ul i {
+.About Me .content ul i {
   font-size: 20px;
   padding-right: 4px;
   color: #5fcf80;
 }
 
-.about .content .learn-more-btn {
+.About Me .content .learn-more-btn {
   background: #5fcf80;
   color: #fff;
   border-radius: 50px;
@@ -581,13 +581,13 @@ section {
   display: inline-block;
 }
 
-.about .content .learn-more-btn:hover {
+.About Me .content .learn-more-btn:hover {
   background: #3ac162;
   color: #fff;
 }
 
 @media (max-width: 768px) {
-  .about .content .learn-more-btn {
+  .About Me .content .learn-more-btn {
     margin: 0 48px 0 0;
     padding: 6px 18px;
   }
@@ -725,37 +725,37 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Courses
+# Certificates
 --------------------------------------------------------------*/
-.courses .course-item {
+.Certificates .course-item {
   border-radius: 5px;
   border: 1px solid #eef0ef;
 }
 
-.courses .course-content {
+.Certificates .course-content {
   padding: 15px;
 }
 
-.courses .course-content h3 {
+.Certificates .course-content h3 {
   font-weight: 700;
   font-size: 20px;
 }
 
-.courses .course-content h3 a {
+.Certificates .course-content h3 a {
   color: #37423b;
   transition: 0.3s;
 }
 
-.courses .course-content h3 a:hover {
+.Certificates .course-content h3 a:hover {
   color: #5fcf80;
 }
 
-.courses .course-content p {
+.Certificates .course-content p {
   font-size: 14px;
   color: #777777;
 }
 
-.courses .course-content h4 {
+.Certificates .course-content h4 {
   font-size: 14px;
   background: #5fcf80;
   padding: 7px 14px;
@@ -763,31 +763,31 @@ section {
   margin: 0;
 }
 
-.courses .course-content .price {
+.Certificates .course-content .price {
   margin: 0;
   font-weight: 700;
   font-size: 18px;
   color: #37423b;
 }
 
-.courses .trainer {
+.Certificates .trainer {
   padding-top: 15px;
   border-top: 1px solid #eef0ef;
 }
 
-.courses .trainer .trainer-profile img {
+.Certificates .trainer .trainer-profile img {
   max-width: 50px;
   border-radius: 50px;
 }
 
-.courses .trainer .trainer-profile span {
+.Certificates .trainer .trainer-profile span {
   padding-left: 10px;
   font-weight: 600;
   font-size: 16px;
   color: #5a6c60;
 }
 
-.courses .trainer .trainer-rank {
+.Certificates .trainer .trainer-rank {
   font-size: 18px;
   color: #657a6d;
 }
@@ -943,7 +943,7 @@ section {
 /*--------------------------------------------------------------
 # Cource Details
 --------------------------------------------------------------*/
-.course-details h3 {
+.Certificates h3 {
   font-size: 24px;
   margin: 30px 0 15px 0;
   font-weight: 700;
@@ -951,7 +951,7 @@ section {
   padding-bottom: 10px;
 }
 
-.course-details h3:before {
+.Certificates h3:before {
   content: '';
   position: absolute;
   display: block;
@@ -962,7 +962,7 @@ section {
   left: 0;
 }
 
-.course-details h3:after {
+.Certificates h3:after {
   content: '';
   position: absolute;
   display: block;
@@ -973,25 +973,25 @@ section {
   left: 0;
 }
 
-.course-details .course-info {
+.Certificates .course-info {
   background: #f6f7f6;
   padding: 10px 15px;
   margin-bottom: 15px;
 }
 
-.course-details .course-info h5 {
+.Certificates .course-info h5 {
   font-weight: 400;
   font-size: 16px;
   margin: 0;
   font-family: "Poppins", sans-serif;
 }
 
-.course-details .course-info p {
+.Certificates .course-info p {
   margin: 0;
   font-weight: 600;
 }
 
-.course-details .course-info a {
+.Certificates .course-info a {
   color: #657a6d;
 }
 
